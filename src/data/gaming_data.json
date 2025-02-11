@@ -1,0 +1,910 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "username": "CyberNinja13",
+            "games_played": 366,
+            "highest_score": 8123,
+            "win_rate": 87.56,
+            "level": 21,
+            "rank": "Platinum"
+        },
+        {
+            "id": 2,
+            "username": "DarkSpecter42",
+            "games_played": 214,
+            "highest_score": 10119,
+            "win_rate": 66.46,
+            "level": 15,
+            "rank": "Silver"
+        },
+        {
+            "id": 3,
+            "username": "ArcadeKing29",
+            "games_played": 494,
+            "highest_score": 10422,
+            "win_rate": 62.45,
+            "level": 40,
+            "rank": "Platinum"
+        },
+        {
+            "id": 4,
+            "username": "NoScopeLegend75",
+            "games_played": 155,
+            "highest_score": 6572,
+            "win_rate": 34.37,
+            "level": 20,
+            "rank": "Gold"
+        },
+        {
+            "id": 5,
+            "username": "QuantumKnight41",
+            "games_played": 311,
+            "highest_score": 11090,
+            "win_rate": 61.93,
+            "level": 44,
+            "rank": "Gold"
+        },
+        {
+            "id": 6,
+            "username": "DarkSpecter81",
+            "games_played": 78,
+            "highest_score": 13636,
+            "win_rate": 66.44,
+            "level": 34,
+            "rank": "Master"
+        },
+        {
+            "id": 7,
+            "username": "PixelHunter76",
+            "games_played": 226,
+            "highest_score": 5975,
+            "win_rate": 64.76,
+            "level": 16,
+            "rank": "Silver"
+        },
+        {
+            "id": 8,
+            "username": "StormHawk21",
+            "games_played": 155,
+            "highest_score": 6722,
+            "win_rate": 30.44,
+            "level": 11,
+            "rank": "Silver"
+        },
+        {
+            "id": 9,
+            "username": "CyberNinja82",
+            "games_played": 500,
+            "highest_score": 7342,
+            "win_rate": 66.26,
+            "level": 35,
+            "rank": "Master"
+        },
+        {
+            "id": 10,
+            "username": "ToxicSniper48",
+            "games_played": 257,
+            "highest_score": 10896,
+            "win_rate": 38.32,
+            "level": 14,
+            "rank": "Bronze"
+        },
+        {
+            "id": 11,
+            "username": "BlazeStorm85",
+            "games_played": 205,
+            "highest_score": 5041,
+            "win_rate": 72.09,
+            "level": 36,
+            "rank": "Gold"
+        },
+        {
+            "id": 12,
+            "username": "DarkSpecter62",
+            "games_played": 229,
+            "highest_score": 6968,
+            "win_rate": 73.37,
+            "level": 44,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 13,
+            "username": "ThunderFang61",
+            "games_played": 93,
+            "highest_score": 8779,
+            "win_rate": 87.19,
+            "level": 45,
+            "rank": "Gold"
+        },
+        {
+            "id": 14,
+            "username": "ToxicSniper24",
+            "games_played": 367,
+            "highest_score": 6338,
+            "win_rate": 42.65,
+            "level": 27,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 15,
+            "username": "DaggerWolf28",
+            "games_played": 407,
+            "highest_score": 12020,
+            "win_rate": 76.77,
+            "level": 38,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 16,
+            "username": "RogueGamer28",
+            "games_played": 83,
+            "highest_score": 10472,
+            "win_rate": 67.39,
+            "level": 35,
+            "rank": "Platinum"
+        },
+        {
+            "id": 17,
+            "username": "RogueGamer94",
+            "games_played": 198,
+            "highest_score": 10769,
+            "win_rate": 64.49,
+            "level": 49,
+            "rank": "Silver"
+        },
+        {
+            "id": 18,
+            "username": "ArcadeKing29",
+            "games_played": 102,
+            "highest_score": 5703,
+            "win_rate": 81.02,
+            "level": 50,
+            "rank": "Diamond"
+        },
+        {
+            "id": 19,
+            "username": "FrostBite39",
+            "games_played": 56,
+            "highest_score": 5744,
+            "win_rate": 62.37,
+            "level": 38,
+            "rank": "Diamond"
+        },
+        {
+            "id": 20,
+            "username": "StormHawk12",
+            "games_played": 81,
+            "highest_score": 13533,
+            "win_rate": 76.04,
+            "level": 16,
+            "rank": "Gold"
+        },
+        {
+            "id": 21,
+            "username": "QuantumKnight35",
+            "games_played": 150,
+            "highest_score": 5185,
+            "win_rate": 83.52,
+            "level": 13,
+            "rank": "Platinum"
+        },
+        {
+            "id": 22,
+            "username": "CyberNinja85",
+            "games_played": 100,
+            "highest_score": 13750,
+            "win_rate": 67.06,
+            "level": 12,
+            "rank": "Platinum"
+        },
+        {
+            "id": 23,
+            "username": "ThunderFang30",
+            "games_played": 174,
+            "highest_score": 7106,
+            "win_rate": 50.13,
+            "level": 31,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 24,
+            "username": "ArcadeKing89",
+            "games_played": 68,
+            "highest_score": 11952,
+            "win_rate": 37.64,
+            "level": 49,
+            "rank": "Silver"
+        },
+        {
+            "id": 25,
+            "username": "ToxicSniper49",
+            "games_played": 90,
+            "highest_score": 14225,
+            "win_rate": 49.71,
+            "level": 18,
+            "rank": "Bronze"
+        },
+        {
+            "id": 26,
+            "username": "DaggerWolf35",
+            "games_played": 58,
+            "highest_score": 14157,
+            "win_rate": 74.18,
+            "level": 46,
+            "rank": "Gold"
+        },
+        {
+            "id": 27,
+            "username": "ThunderFang55",
+            "games_played": 189,
+            "highest_score": 13718,
+            "win_rate": 42.94,
+            "level": 16,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 28,
+            "username": "CyberNinja20",
+            "games_played": 164,
+            "highest_score": 6345,
+            "win_rate": 57.55,
+            "level": 38,
+            "rank": "Master"
+        },
+        {
+            "id": 29,
+            "username": "GhostSniper78",
+            "games_played": 324,
+            "highest_score": 14142,
+            "win_rate": 71.57,
+            "level": 50,
+            "rank": "Diamond"
+        },
+        {
+            "id": 30,
+            "username": "VenomStriker75",
+            "games_played": 77,
+            "highest_score": 7464,
+            "win_rate": 34.06,
+            "level": 27,
+            "rank": "Gold"
+        },
+        {
+            "id": 31,
+            "username": "FrostBite29",
+            "games_played": 223,
+            "highest_score": 6029,
+            "win_rate": 74.32,
+            "level": 48,
+            "rank": "Gold"
+        },
+        {
+            "id": 32,
+            "username": "CyberNinja85",
+            "games_played": 428,
+            "highest_score": 6751,
+            "win_rate": 39.09,
+            "level": 48,
+            "rank": "Platinum"
+        },
+        {
+            "id": 33,
+            "username": "PixelHunter35",
+            "games_played": 287,
+            "highest_score": 14293,
+            "win_rate": 44.71,
+            "level": 32,
+            "rank": "Bronze"
+        },
+        {
+            "id": 34,
+            "username": "QuantumKnight97",
+            "games_played": 373,
+            "highest_score": 11144,
+            "win_rate": 69.19,
+            "level": 11,
+            "rank": "Bronze"
+        },
+        {
+            "id": 35,
+            "username": "ShadowSlayer84",
+            "games_played": 89,
+            "highest_score": 12899,
+            "win_rate": 37.11,
+            "level": 38,
+            "rank": "Platinum"
+        },
+        {
+            "id": 36,
+            "username": "StealthMaster73",
+            "games_played": 357,
+            "highest_score": 12544,
+            "win_rate": 49.87,
+            "level": 32,
+            "rank": "Diamond"
+        },
+        {
+            "id": 37,
+            "username": "ThunderFang98",
+            "games_played": 176,
+            "highest_score": 8985,
+            "win_rate": 75.16,
+            "level": 16,
+            "rank": "Bronze"
+        },
+        {
+            "id": 38,
+            "username": "ToxicSniper28",
+            "games_played": 477,
+            "highest_score": 14649,
+            "win_rate": 39.7,
+            "level": 32,
+            "rank": "Bronze"
+        },
+        {
+            "id": 39,
+            "username": "PixelHunter30",
+            "games_played": 493,
+            "highest_score": 10721,
+            "win_rate": 47.93,
+            "level": 21,
+            "rank": "Silver"
+        },
+        {
+            "id": 40,
+            "username": "PixelHunter84",
+            "games_played": 407,
+            "highest_score": 6809,
+            "win_rate": 40.88,
+            "level": 50,
+            "rank": "Silver"
+        },
+        {
+            "id": 41,
+            "username": "ArcadeKing34",
+            "games_played": 171,
+            "highest_score": 12214,
+            "win_rate": 85.3,
+            "level": 25,
+            "rank": "Bronze"
+        },
+        {
+            "id": 42,
+            "username": "CyberNinja21",
+            "games_played": 146,
+            "highest_score": 10660,
+            "win_rate": 58.43,
+            "level": 23,
+            "rank": "Platinum"
+        },
+        {
+            "id": 43,
+            "username": "StormHawk33",
+            "games_played": 316,
+            "highest_score": 7316,
+            "win_rate": 59.85,
+            "level": 35,
+            "rank": "Bronze"
+        },
+        {
+            "id": 44,
+            "username": "RogueGamer91",
+            "games_played": 369,
+            "highest_score": 5050,
+            "win_rate": 85.75,
+            "level": 23,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 45,
+            "username": "DaggerWolf77",
+            "games_played": 164,
+            "highest_score": 12080,
+            "win_rate": 75.55,
+            "level": 18,
+            "rank": "Master"
+        },
+        {
+            "id": 46,
+            "username": "DaggerWolf68",
+            "games_played": 488,
+            "highest_score": 13614,
+            "win_rate": 71.77,
+            "level": 45,
+            "rank": "Silver"
+        },
+        {
+            "id": 47,
+            "username": "CyberNinja95",
+            "games_played": 200,
+            "highest_score": 14338,
+            "win_rate": 61.87,
+            "level": 29,
+            "rank": "Gold"
+        },
+        {
+            "id": 48,
+            "username": "PhantomReaper94",
+            "games_played": 66,
+            "highest_score": 5786,
+            "win_rate": 72.07,
+            "level": 14,
+            "rank": "Gold"
+        },
+        {
+            "id": 49,
+            "username": "QuantumKnight79",
+            "games_played": 262,
+            "highest_score": 7243,
+            "win_rate": 70.59,
+            "level": 32,
+            "rank": "Diamond"
+        },
+        {
+            "id": 50,
+            "username": "DaggerWolf24",
+            "games_played": 389,
+            "highest_score": 6507,
+            "win_rate": 70.99,
+            "level": 47,
+            "rank": "Diamond"
+        },
+        {
+            "id": 51,
+            "username": "NoScopeLegend57",
+            "games_played": 250,
+            "highest_score": 11822,
+            "win_rate": 44.51,
+            "level": 29,
+            "rank": "Bronze"
+        },
+        {
+            "id": 52,
+            "username": "RogueGamer48",
+            "games_played": 353,
+            "highest_score": 10028,
+            "win_rate": 53.13,
+            "level": 13,
+            "rank": "Gold"
+        },
+        {
+            "id": 53,
+            "username": "StormHawk33",
+            "games_played": 170,
+            "highest_score": 14430,
+            "win_rate": 50.87,
+            "level": 49,
+            "rank": "Master"
+        },
+        {
+            "id": 54,
+            "username": "ToxicSniper66",
+            "games_played": 321,
+            "highest_score": 6048,
+            "win_rate": 56.46,
+            "level": 41,
+            "rank": "Gold"
+        },
+        {
+            "id": 55,
+            "username": "DarkSpecter65",
+            "games_played": 141,
+            "highest_score": 7347,
+            "win_rate": 30.03,
+            "level": 34,
+            "rank": "Diamond"
+        },
+        {
+            "id": 56,
+            "username": "NoScopeLegend20",
+            "games_played": 422,
+            "highest_score": 12579,
+            "win_rate": 71.46,
+            "level": 28,
+            "rank": "Platinum"
+        },
+        {
+            "id": 57,
+            "username": "ToxicSniper25",
+            "games_played": 114,
+            "highest_score": 13354,
+            "win_rate": 66.3,
+            "level": 48,
+            "rank": "Diamond"
+        },
+        {
+            "id": 58,
+            "username": "NoScopeLegend25",
+            "games_played": 244,
+            "highest_score": 12743,
+            "win_rate": 67.52,
+            "level": 22,
+            "rank": "Bronze"
+        },
+        {
+            "id": 59,
+            "username": "RogueGamer27",
+            "games_played": 440,
+            "highest_score": 6684,
+            "win_rate": 46.83,
+            "level": 27,
+            "rank": "Diamond"
+        },
+        {
+            "id": 60,
+            "username": "FrostBite61",
+            "games_played": 305,
+            "highest_score": 11193,
+            "win_rate": 37.86,
+            "level": 48,
+            "rank": "Master"
+        },
+        {
+            "id": 61,
+            "username": "RogueGamer99",
+            "games_played": 205,
+            "highest_score": 9043,
+            "win_rate": 79.69,
+            "level": 11,
+            "rank": "Silver"
+        },
+        {
+            "id": 62,
+            "username": "PixelHunter67",
+            "games_played": 220,
+            "highest_score": 7782,
+            "win_rate": 77.32,
+            "level": 50,
+            "rank": "Platinum"
+        },
+        {
+            "id": 63,
+            "username": "GhostSniper87",
+            "games_played": 342,
+            "highest_score": 10285,
+            "win_rate": 88.81,
+            "level": 13,
+            "rank": "Platinum"
+        },
+        {
+            "id": 64,
+            "username": "StormHawk69",
+            "games_played": 483,
+            "highest_score": 14665,
+            "win_rate": 83.66,
+            "level": 49,
+            "rank": "Silver"
+        },
+        {
+            "id": 65,
+            "username": "ArcadeKing96",
+            "games_played": 493,
+            "highest_score": 13438,
+            "win_rate": 42.44,
+            "level": 49,
+            "rank": "Gold"
+        },
+        {
+            "id": 66,
+            "username": "DarkSpecter77",
+            "games_played": 367,
+            "highest_score": 7296,
+            "win_rate": 64.47,
+            "level": 40,
+            "rank": "Bronze"
+        },
+        {
+            "id": 67,
+            "username": "GhostSniper47",
+            "games_played": 285,
+            "highest_score": 14123,
+            "win_rate": 31.54,
+            "level": 34,
+            "rank": "Bronze"
+        },
+        {
+            "id": 68,
+            "username": "CyberNinja64",
+            "games_played": 312,
+            "highest_score": 6276,
+            "win_rate": 43.97,
+            "level": 36,
+            "rank": "Diamond"
+        },
+        {
+            "id": 69,
+            "username": "QuantumKnight88",
+            "games_played": 96,
+            "highest_score": 6961,
+            "win_rate": 53.72,
+            "level": 21,
+            "rank": "Diamond"
+        },
+        {
+            "id": 70,
+            "username": "FrostBite76",
+            "games_played": 75,
+            "highest_score": 14410,
+            "win_rate": 63.17,
+            "level": 16,
+            "rank": "Platinum"
+        },
+        {
+            "id": 71,
+            "username": "NoScopeLegend57",
+            "games_played": 472,
+            "highest_score": 12853,
+            "win_rate": 35.69,
+            "level": 49,
+            "rank": "Bronze"
+        },
+        {
+            "id": 72,
+            "username": "ToxicSniper55",
+            "games_played": 311,
+            "highest_score": 6720,
+            "win_rate": 38.53,
+            "level": 30,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 73,
+            "username": "ArcadeKing71",
+            "games_played": 354,
+            "highest_score": 11496,
+            "win_rate": 65.45,
+            "level": 45,
+            "rank": "Platinum"
+        },
+        {
+            "id": 74,
+            "username": "PixelWarrior85",
+            "games_played": 309,
+            "highest_score": 12348,
+            "win_rate": 71.86,
+            "level": 28,
+            "rank": "Platinum"
+        },
+        {
+            "id": 75,
+            "username": "StealthMaster95",
+            "games_played": 188,
+            "highest_score": 7010,
+            "win_rate": 74.97,
+            "level": 15,
+            "rank": "Silver"
+        },
+        {
+            "id": 76,
+            "username": "CyberNinja26",
+            "games_played": 263,
+            "highest_score": 6370,
+            "win_rate": 61.26,
+            "level": 15,
+            "rank": "Gold"
+        },
+        {
+            "id": 77,
+            "username": "PixelHunter94",
+            "games_played": 448,
+            "highest_score": 14331,
+            "win_rate": 31.92,
+            "level": 46,
+            "rank": "Diamond"
+        },
+        {
+            "id": 78,
+            "username": "PixelWarrior14",
+            "games_played": 491,
+            "highest_score": 7563,
+            "win_rate": 80.72,
+            "level": 25,
+            "rank": "Master"
+        },
+        {
+            "id": 79,
+            "username": "FrostBite45",
+            "games_played": 396,
+            "highest_score": 6469,
+            "win_rate": 69.58,
+            "level": 46,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 80,
+            "username": "DragonFury33",
+            "games_played": 295,
+            "highest_score": 5274,
+            "win_rate": 35.86,
+            "level": 13,
+            "rank": "Grandmaster"
+        },
+        {
+            "id": 81,
+            "username": "RogueGamer20",
+            "games_played": 260,
+            "highest_score": 14238,
+            "win_rate": 61.92,
+            "level": 13,
+            "rank": "Master"
+        },
+        {
+            "id": 82,
+            "username": "VenomStriker88",
+            "games_played": 236,
+            "highest_score": 12985,
+            "win_rate": 82.86,
+            "level": 45,
+            "rank": "Platinum"
+        },
+        {
+            "id": 83,
+            "username": "CyberNinja55",
+            "games_played": 347,
+            "highest_score": 10565,
+            "win_rate": 49.61,
+            "level": 13,
+            "rank": "Diamond"
+        },
+        {
+            "id": 84,
+            "username": "RogueGamer84",
+            "games_played": 463,
+            "highest_score": 7530,
+            "win_rate": 39.87,
+            "level": 27,
+            "rank": "Diamond"
+        },
+        {
+            "id": 85,
+            "username": "StormHawk89",
+            "games_played": 166,
+            "highest_score": 5672,
+            "win_rate": 80.06,
+            "level": 30,
+            "rank": "Bronze"
+        },
+        {
+            "id": 86,
+            "username": "QuantumKnight48",
+            "games_played": 349,
+            "highest_score": 12285,
+            "win_rate": 63.78,
+            "level": 40,
+            "rank": "Silver"
+        },
+        {
+            "id": 87,
+            "username": "QuantumKnight22",
+            "games_played": 50,
+            "highest_score": 12860,
+            "win_rate": 56.01,
+            "level": 22,
+            "rank": "Master"
+        },
+        {
+            "id": 88,
+            "username": "RogueGamer57",
+            "games_played": 296,
+            "highest_score": 11896,
+            "win_rate": 62.67,
+            "level": 22,
+            "rank": "Silver"
+        },
+        {
+            "id": 89,
+            "username": "GhostSniper28",
+            "games_played": 159,
+            "highest_score": 14766,
+            "win_rate": 35.06,
+            "level": 42,
+            "rank": "Platinum"
+        },
+        {
+            "id": 90,
+            "username": "DaggerWolf44",
+            "games_played": 94,
+            "highest_score": 9783,
+            "win_rate": 54.91,
+            "level": 47,
+            "rank": "Gold"
+        },
+        {
+            "id": 91,
+            "username": "VenomStriker71",
+            "games_played": 443,
+            "highest_score": 14286,
+            "win_rate": 61.73,
+            "level": 42,
+            "rank": "Gold"
+        },
+        {
+            "id": 92,
+            "username": "PixelWarrior50",
+            "games_played": 179,
+            "highest_score": 13839,
+            "win_rate": 56.0,
+            "level": 17,
+            "rank": "Diamond"
+        },
+        {
+            "id": 93,
+            "username": "GhostSniper13",
+            "games_played": 217,
+            "highest_score": 5043,
+            "win_rate": 56.27,
+            "level": 24,
+            "rank": "Diamond"
+        },
+        {
+            "id": 94,
+            "username": "StealthMaster23",
+            "games_played": 203,
+            "highest_score": 8302,
+            "win_rate": 73.89,
+            "level": 21,
+            "rank": "Silver"
+        },
+        {
+            "id": 95,
+            "username": "DragonFury98",
+            "games_played": 479,
+            "highest_score": 14708,
+            "win_rate": 37.24,
+            "level": 33,
+            "rank": "Bronze"
+        },
+        {
+            "id": 96,
+            "username": "PixelHunter86",
+            "games_played": 392,
+            "highest_score": 13949,
+            "win_rate": 89.49,
+            "level": 40,
+            "rank": "Platinum"
+        },
+        {
+            "id": 97,
+            "username": "StealthMaster43",
+            "games_played": 86,
+            "highest_score": 7081,
+            "win_rate": 61.52,
+            "level": 43,
+            "rank": "Platinum"
+        },
+        {
+            "id": 98,
+            "username": "ThunderFang93",
+            "games_played": 164,
+            "highest_score": 12993,
+            "win_rate": 62.29,
+            "level": 42,
+            "rank": "Master"
+        },
+        {
+            "id": 99,
+            "username": "StealthMaster21",
+            "games_played": 475,
+            "highest_score": 6684,
+            "win_rate": 45.48,
+            "level": 29,
+            "rank": "Platinum"
+        },
+        {
+            "id": 100,
+            "username": "QuantumKnight71",
+            "games_played": 354,
+            "highest_score": 11151,
+            "win_rate": 84.25,
+            "level": 20,
+            "rank": "Platinum"
+        }
+    ],
+    "global_stats": {
+        "total_games_played": 26429,
+        "average_score": 10054,
+        "top_rank": "Grandmaster",
+        "active_players": 327
+    }
+}
